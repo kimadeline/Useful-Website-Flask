@@ -1,2 +1,3 @@
 flask
 pytest
+livereload==2.5.1
